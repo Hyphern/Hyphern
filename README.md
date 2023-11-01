@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Hyphern
+- 👀 I’m interested in linear programming
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on python projects that invovle algorithms
+- 📫 How to reach me twcarden05@gmail.com
