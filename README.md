@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hyphern
-- 👀 I’m interested in Linear Programming and Decision Analysis
+- 👀 I’m interested in Linear Programming, Decision Analysis & Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects involving algorithms
 - 📫 How to reach me thomas.william.carden@gmail.com
